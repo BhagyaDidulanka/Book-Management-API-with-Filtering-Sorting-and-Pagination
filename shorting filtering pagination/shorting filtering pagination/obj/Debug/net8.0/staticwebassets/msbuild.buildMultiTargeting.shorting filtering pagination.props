@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\shorting filtering pagination.props" />
+</Project>

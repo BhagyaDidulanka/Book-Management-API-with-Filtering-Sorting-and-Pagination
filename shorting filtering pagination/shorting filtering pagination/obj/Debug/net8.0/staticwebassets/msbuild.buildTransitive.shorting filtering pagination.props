@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\shorting filtering pagination.props" />
+</Project>
