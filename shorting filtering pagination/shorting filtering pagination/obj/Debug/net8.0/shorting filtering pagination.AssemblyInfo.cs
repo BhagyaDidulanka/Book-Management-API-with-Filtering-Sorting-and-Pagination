@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("shorting filtering pagination")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d8e3e32d7e12cfbb5f9b6dac6e7db2b144203fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fbec0eb466d415935ae35b8757ee03410666e86")]
 [assembly: System.Reflection.AssemblyProductAttribute("shorting filtering pagination")]
 [assembly: System.Reflection.AssemblyTitleAttribute("shorting filtering pagination")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
